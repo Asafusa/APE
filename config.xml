@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-<apykey>https://play-aelys.eu/public/download/APE/KeyAPE.php</apykey>
+<apykey>https://play-aelys.eu/public/download/hoka/apy/KeyHokaLaunch.php</apykey>
+<apyape>https://play-aelys.eu/public/download/APE/KeyAPE.php</apyape>
 </config>
